@@ -45,7 +45,7 @@ This is a chatbot designed to make your Discord server *smarter* and *more fun*!
 
 4. Run the bot:
    ```bash
-  node index.js
+    node index.js
 
 
 ## 🚨 Important
