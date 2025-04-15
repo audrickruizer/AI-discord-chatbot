@@ -1,3 +1,4 @@
+
 # AI-Discord-Chatbot 🤖💬
 
 Welcome to **AI-Discord-Chatbot**, your new best friend on Discord! This bot is powered by the magic of OpenRouterAI and is ready to chat with you, help out with queries, and bring some AI-powered fun to your server. 🎉
@@ -31,28 +32,40 @@ This is a chatbot designed to make your Discord server *smarter* and *more fun*!
 1. Clone this repo:
    ```bash
    git clone https://github.com/audrickruizer/AI-discord-chatbot.git
+   ```
 
 2. Install dependencies:
    ```bash
-    npm install
+   npm install
+   ```
 
-3. Set up your .env file with your Discord bot token and OpenRouter API key. Don’t forget to keep your tokens private and secure! 🔑
+3. Set up your `.env` file with your Discord bot token and OpenRouter API key. Don’t forget to keep your tokens private and secure! 🔑
 
-  Example .env:
-  ```bash
-    DISCORD_TOKEN=your-discord-bot-token-here
-    OPENROUTER_KEY=your-openrouter-api-key-here
+   Example `.env`:
+   ```bash
+   DISCORD_TOKEN=your-discord-bot-token-here
+   OPENROUTER_KEY=your-openrouter-api-key-here
+   ```
 
 4. Run the bot:
    ```bash
-    node index.js
+   node index.js
+   ```
 
+---
 
 ## 🚨 Important
-Keep your tokens secret! Don’t push your .env or any sensitive data to GitHub. Use .gitignore to keep it safe.
+
+Keep your tokens secret! Don’t push your `.env` or any sensitive data to GitHub. Use `.gitignore` to keep it safe.
+
+---
 
 ## 📱 Social
+
 Connect with me on [Instagram](https://www.instagram.com/audrickruizer) or check out my [GitHub](https://github.com/audrickruizer)!
 
+---
+
 ## 🎉 Let's Chat!
+
 Ready to chat with AI? Invite this bot to your server and get the conversation started! 😄
