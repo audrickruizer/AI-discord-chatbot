@@ -1,0 +1,23 @@
+# Node modules
+node_modules/
+
+# Environment variables file
+.env
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+
+# npm debug files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# VS Code settings folder
+.vscode/
+
+# Miscellaneous files
+*.swp
+.idea/
