@@ -33,15 +33,18 @@ This is a chatbot designed to make your Discord server *smarter* and *more fun*!
    git clone https://github.com/audrickruizer/AI-discord-chatbot.git
 
 2. Install dependencies:
+   ```bash
     npm install
 
 3. Set up your .env file with your Discord bot token and OpenRouter API key. Don’t forget to keep your tokens private and secure! 🔑
 
   Example .env:
+    ```bash
     DISCORD_TOKEN=your-discord-bot-token-here
     OPENROUTER_KEY=your-openrouter-api-key-here
 
 4. Run the bot:
+   ```bash
   node index.js
 
 
